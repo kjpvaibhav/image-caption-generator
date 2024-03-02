@@ -12,8 +12,8 @@ In this Python project, we will be implementing the caption generator using CNN 
 For the image caption generator, we will be using the Flickr_8K dataset. There are also other big datasets like Flickr_30K and MSCOCO dataset but it can take weeks just to train the network so we will be using a small Flickr8k dataset. The advantage of a huge dataset is that we can build better models.
 
 Thanks to Jason Brownlee for providing a direct link to download the dataset (Size: 1GB).
-* Flicker8k_Dataset 
-* Flickr_8k_text 
+* Flicker8k_Dataset - https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+* Flickr_8k_text - https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
 The Flickr_8k_text folder contains file Flickr8k.token which is the main file of our dataset that contains image name and their respective captions separated by newline(“\n”).
 
 ## Pre-requisites
